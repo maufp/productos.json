@@ -1,0 +1,7002 @@
+[
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 127,
+    "ingresos": 26217.88,
+    "precio": 206.44
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 114,
+    "ingresos": 22389.6,
+    "precio": 196.4
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 89,
+    "ingresos": 16848.59,
+    "precio": 189.31
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 69,
+    "ingresos": 13306.65,
+    "precio": 192.85
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 83,
+    "ingresos": 25788.1,
+    "precio": 310.7
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 186,
+    "ingresos": 40094.16,
+    "precio": 215.56
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 88,
+    "ingresos": 18693.84,
+    "precio": 212.43
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 112,
+    "ingresos": 23273.6,
+    "precio": 207.8
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 87,
+    "ingresos": 16403.85,
+    "precio": 188.55
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 72,
+    "ingresos": 23105.52,
+    "precio": 320.91
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 123,
+    "ingresos": 23067.42,
+    "precio": 187.54
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 128,
+    "ingresos": 27147.52,
+    "precio": 212.09
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 59,
+    "ingresos": 18167.28,
+    "precio": 307.92
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 222,
+    "ingresos": 43234.5,
+    "precio": 194.75
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 155,
+    "ingresos": 30545.85,
+    "precio": 197.07
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 134,
+    "ingresos": 27780.88,
+    "precio": 207.32
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 141,
+    "ingresos": 30001.98,
+    "precio": 212.78
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 108,
+    "ingresos": 22870.08,
+    "precio": 211.76
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 62,
+    "ingresos": 19585.18,
+    "precio": 315.89
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 88,
+    "ingresos": 16460.4,
+    "precio": 187.05
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 58,
+    "ingresos": 16126.9,
+    "precio": 278.05
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 83,
+    "ingresos": 17553.67,
+    "precio": 211.49
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 239,
+    "ingresos": 45644.22,
+    "precio": 190.98
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 59,
+    "ingresos": 18890.03,
+    "precio": 320.17
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 83,
+    "ingresos": 25199.63,
+    "precio": 303.61
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 159,
+    "ingresos": 33176.94,
+    "precio": 208.66
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 58,
+    "ingresos": 16587.42,
+    "precio": 285.99
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 159,
+    "ingresos": 32879.61,
+    "precio": 206.79
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 152,
+    "ingresos": 32657.2,
+    "precio": 214.85
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 73,
+    "ingresos": 13934.97,
+    "precio": 190.89
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 126,
+    "ingresos": 25950.96,
+    "precio": 205.96
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 52,
+    "ingresos": 16012.36,
+    "precio": 307.93
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 46,
+    "ingresos": 14817.06,
+    "precio": 322.11
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 70,
+    "ingresos": 22303.4,
+    "precio": 318.62
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 85,
+    "ingresos": 17056.95,
+    "precio": 200.67
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 126,
+    "ingresos": 26825.4,
+    "precio": 212.9
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 97,
+    "ingresos": 19847.17,
+    "precio": 204.61
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 87,
+    "ingresos": 25585.83,
+    "precio": 294.09
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 39,
+    "ingresos": 11416.47,
+    "precio": 292.73
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 67,
+    "ingresos": 20469.17,
+    "precio": 305.51
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 163,
+    "ingresos": 30146.85,
+    "precio": 184.95
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 55,
+    "ingresos": 16572.6,
+    "precio": 301.32
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 53,
+    "ingresos": 16829.09,
+    "precio": 317.53
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 120,
+    "ingresos": 23732.4,
+    "precio": 197.77
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 137,
+    "ingresos": 25381.99,
+    "precio": 185.27
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 85,
+    "ingresos": 18272.45,
+    "precio": 214.97
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 72,
+    "ingresos": 13739.76,
+    "precio": 190.83
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 128,
+    "ingresos": 24739.84,
+    "precio": 193.28
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 104,
+    "ingresos": 28958.8,
+    "precio": 278.45
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 45,
+    "ingresos": 12507.75,
+    "precio": 277.95
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 118,
+    "ingresos": 22082.52,
+    "precio": 187.14
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 121,
+    "ingresos": 23291.29,
+    "precio": 192.49
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 113,
+    "ingresos": 21511.81,
+    "precio": 190.37
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 146,
+    "ingresos": 31321.38,
+    "precio": 214.53
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 65,
+    "ingresos": 13440.05,
+    "precio": 206.77
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 238,
+    "ingresos": 48042.68,
+    "precio": 201.86
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 103,
+    "ingresos": 20768.92,
+    "precio": 201.64
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 80,
+    "ingresos": 15016.8,
+    "precio": 187.71
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 231,
+    "ingresos": 46096.05,
+    "precio": 199.55
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 77,
+    "ingresos": 24819.41,
+    "precio": 322.33
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 58,
+    "ingresos": 17604.74,
+    "precio": 303.53
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 96,
+    "ingresos": 20717.76,
+    "precio": 215.81
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 141,
+    "ingresos": 29175.72,
+    "precio": 206.92
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 110,
+    "ingresos": 23492.7,
+    "precio": 213.57
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 68,
+    "ingresos": 12670.44,
+    "precio": 186.33
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 79,
+    "ingresos": 25530.43,
+    "precio": 323.17
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 113,
+    "ingresos": 31427.56,
+    "precio": 278.12
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 140,
+    "ingresos": 27424.6,
+    "precio": 195.89
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 92,
+    "ingresos": 26165.72,
+    "precio": 284.41
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 155,
+    "ingresos": 28817.6,
+    "precio": 185.92
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 116,
+    "ingresos": 21460.0,
+    "precio": 185.0
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 69,
+    "ingresos": 20262.54,
+    "precio": 293.66
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 101,
+    "ingresos": 20588.85,
+    "precio": 203.85
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 180,
+    "ingresos": 37899.0,
+    "precio": 210.55
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 88,
+    "ingresos": 16387.36,
+    "precio": 186.22
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 88,
+    "ingresos": 26837.36,
+    "precio": 304.97
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 70,
+    "ingresos": 21436.1,
+    "precio": 306.23
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 123,
+    "ingresos": 24223.62,
+    "precio": 196.94
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 103,
+    "ingresos": 21547.6,
+    "precio": 209.2
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 114,
+    "ingresos": 21093.42,
+    "precio": 185.03
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 59,
+    "ingresos": 17827.44,
+    "precio": 302.16
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 60,
+    "ingresos": 18859.2,
+    "precio": 314.32
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 48,
+    "ingresos": 13504.32,
+    "precio": 281.34
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 63,
+    "ingresos": 19433.61,
+    "precio": 308.47
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 148,
+    "ingresos": 30261.56,
+    "precio": 204.47
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 64,
+    "ingresos": 17980.8,
+    "precio": 280.95
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 87,
+    "ingresos": 16160.25,
+    "precio": 185.75
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 54,
+    "ingresos": 15203.16,
+    "precio": 281.54
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 75,
+    "ingresos": 20853.0,
+    "precio": 278.04
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 113,
+    "ingresos": 23476.88,
+    "precio": 207.76
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 97,
+    "ingresos": 18427.09,
+    "precio": 189.97
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 177,
+    "ingresos": 36214.2,
+    "precio": 204.6
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 112,
+    "ingresos": 21426.72,
+    "precio": 191.31
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 71,
+    "ingresos": 13597.92,
+    "precio": 191.52
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 85,
+    "ingresos": 27099.7,
+    "precio": 318.82
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 162,
+    "ingresos": 29840.4,
+    "precio": 184.2
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 146,
+    "ingresos": 31493.66,
+    "precio": 215.71
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 67,
+    "ingresos": 13558.79,
+    "precio": 202.37
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 189,
+    "ingresos": 37979.55,
+    "precio": 200.95
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 83,
+    "ingresos": 15883.71,
+    "precio": 191.37
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 67,
+    "ingresos": 20061.14,
+    "precio": 299.42
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 116,
+    "ingresos": 23697.64,
+    "precio": 204.29
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 148,
+    "ingresos": 31103.68,
+    "precio": 210.16
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 118,
+    "ingresos": 21984.58,
+    "precio": 186.31
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 102,
+    "ingresos": 20554.02,
+    "precio": 201.51
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 79,
+    "ingresos": 16240.03,
+    "precio": 205.57
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 68,
+    "ingresos": 20742.72,
+    "precio": 305.04
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 59,
+    "ingresos": 17236.85,
+    "precio": 292.15
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 80,
+    "ingresos": 15478.4,
+    "precio": 193.48
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 121,
+    "ingresos": 24370.61,
+    "precio": 201.41
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 147,
+    "ingresos": 28478.31,
+    "precio": 193.73
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 110,
+    "ingresos": 23613.7,
+    "precio": 214.67
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 100,
+    "ingresos": 20680.0,
+    "precio": 206.8
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 74,
+    "ingresos": 15793.08,
+    "precio": 213.42
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 124,
+    "ingresos": 25758.52,
+    "precio": 207.73
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 151,
+    "ingresos": 29718.31,
+    "precio": 196.81
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 115,
+    "ingresos": 21733.85,
+    "precio": 188.99
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 90,
+    "ingresos": 17207.1,
+    "precio": 191.19
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 137,
+    "ingresos": 28424.76,
+    "precio": 207.48
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 74,
+    "ingresos": 22692.84,
+    "precio": 306.66
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 63,
+    "ingresos": 19540.71,
+    "precio": 310.17
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 192,
+    "ingresos": 40158.72,
+    "precio": 209.16
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 146,
+    "ingresos": 31090.7,
+    "precio": 212.95
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 79,
+    "ingresos": 14825.93,
+    "precio": 187.67
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 113,
+    "ingresos": 20916.3,
+    "precio": 185.1
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 115,
+    "ingresos": 21931.65,
+    "precio": 190.71
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 113,
+    "ingresos": 22497.17,
+    "precio": 199.09
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 84,
+    "ingresos": 17206.56,
+    "precio": 204.84
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 104,
+    "ingresos": 33359.04,
+    "precio": 320.76
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 170,
+    "ingresos": 35220.6,
+    "precio": 207.18
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 124,
+    "ingresos": 23444.68,
+    "precio": 189.07
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 128,
+    "ingresos": 25724.16,
+    "precio": 200.97
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 99,
+    "ingresos": 18728.82,
+    "precio": 189.18
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 91,
+    "ingresos": 17788.68,
+    "precio": 195.48
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 102,
+    "ingresos": 29409.66,
+    "precio": 288.33
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 114,
+    "ingresos": 23448.66,
+    "precio": 205.69
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 97,
+    "ingresos": 18697.72,
+    "precio": 192.76
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 63,
+    "ingresos": 19186.02,
+    "precio": 304.54
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 125,
+    "ingresos": 26546.25,
+    "precio": 212.37
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 123,
+    "ingresos": 25549.56,
+    "precio": 207.72
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 69,
+    "ingresos": 20401.23,
+    "precio": 295.67
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 63,
+    "ingresos": 17559.36,
+    "precio": 278.72
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 138,
+    "ingresos": 25568.64,
+    "precio": 185.28
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 128,
+    "ingresos": 25547.52,
+    "precio": 199.59
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 80,
+    "ingresos": 25374.4,
+    "precio": 317.18
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 128,
+    "ingresos": 24230.4,
+    "precio": 189.3
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 160,
+    "ingresos": 34368.0,
+    "precio": 214.8
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 46,
+    "ingresos": 12784.78,
+    "precio": 277.93
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 95,
+    "ingresos": 17560.75,
+    "precio": 184.85
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 90,
+    "ingresos": 18728.1,
+    "precio": 208.09
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 117,
+    "ingresos": 23859.81,
+    "precio": 203.93
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 80,
+    "ingresos": 16887.2,
+    "precio": 211.09
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 113,
+    "ingresos": 22033.87,
+    "precio": 194.99
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 59,
+    "ingresos": 18679.99,
+    "precio": 316.61
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 62,
+    "ingresos": 18585.12,
+    "precio": 299.76
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 65,
+    "ingresos": 20053.15,
+    "precio": 308.51
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 80,
+    "ingresos": 16281.6,
+    "precio": 203.52
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 89,
+    "ingresos": 26134.85,
+    "precio": 293.65
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 87,
+    "ingresos": 18008.13,
+    "precio": 206.99
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 136,
+    "ingresos": 28731.36,
+    "precio": 211.26
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 102,
+    "ingresos": 19937.94,
+    "precio": 195.47
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 68,
+    "ingresos": 21468.28,
+    "precio": 315.71
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 98,
+    "ingresos": 19448.1,
+    "precio": 198.45
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 192,
+    "ingresos": 35911.68,
+    "precio": 187.04
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 133,
+    "ingresos": 27238.4,
+    "precio": 204.8
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 77,
+    "ingresos": 14482.93,
+    "precio": 188.09
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 123,
+    "ingresos": 22927.2,
+    "precio": 186.4
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 71,
+    "ingresos": 20533.91,
+    "precio": 289.21
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 79,
+    "ingresos": 15062.14,
+    "precio": 190.66
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 138,
+    "ingresos": 28596.36,
+    "precio": 207.22
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 55,
+    "ingresos": 16056.15,
+    "precio": 291.93
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 121,
+    "ingresos": 25262.38,
+    "precio": 208.78
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 65,
+    "ingresos": 12942.15,
+    "precio": 199.11
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 139,
+    "ingresos": 25947.13,
+    "precio": 186.67
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 52,
+    "ingresos": 15202.72,
+    "precio": 292.36
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 70,
+    "ingresos": 21660.8,
+    "precio": 309.44
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 154,
+    "ingresos": 29041.32,
+    "precio": 188.58
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 100,
+    "ingresos": 19406.0,
+    "precio": 194.06
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 134,
+    "ingresos": 26368.52,
+    "precio": 196.78
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 39,
+    "ingresos": 11360.7,
+    "precio": 291.3
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 70,
+    "ingresos": 14798.0,
+    "precio": 211.4
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 97,
+    "ingresos": 19398.06,
+    "precio": 199.98
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 136,
+    "ingresos": 25151.84,
+    "precio": 184.94
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 64,
+    "ingresos": 20202.24,
+    "precio": 315.66
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 59,
+    "ingresos": 19043.43,
+    "precio": 322.77
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 74,
+    "ingresos": 15935.9,
+    "precio": 215.35
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 134,
+    "ingresos": 25870.04,
+    "precio": 193.06
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 87,
+    "ingresos": 24378.27,
+    "precio": 280.21
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 102,
+    "ingresos": 21270.06,
+    "precio": 208.53
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 52,
+    "ingresos": 14387.88,
+    "precio": 276.69
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 180,
+    "ingresos": 35857.8,
+    "precio": 199.21
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 67,
+    "ingresos": 19620.95,
+    "precio": 292.85
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 145,
+    "ingresos": 30347.05,
+    "precio": 209.29
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 86,
+    "ingresos": 18204.48,
+    "precio": 211.68
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 125,
+    "ingresos": 40088.75,
+    "precio": 320.71
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 79,
+    "ingresos": 22371.22,
+    "precio": 283.18
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 47,
+    "ingresos": 14188.83,
+    "precio": 301.89
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 94,
+    "ingresos": 19245.56,
+    "precio": 204.74
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 71,
+    "ingresos": 15215.3,
+    "precio": 214.3
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 60,
+    "ingresos": 18059.4,
+    "precio": 300.99
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 104,
+    "ingresos": 22308.0,
+    "precio": 214.5
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 193,
+    "ingresos": 35824.66,
+    "precio": 185.62
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 159,
+    "ingresos": 31809.54,
+    "precio": 200.06
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 82,
+    "ingresos": 16739.48,
+    "precio": 204.14
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 67,
+    "ingresos": 20414.23,
+    "precio": 304.69
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 99,
+    "ingresos": 21302.82,
+    "precio": 215.18
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 101,
+    "ingresos": 21090.82,
+    "precio": 208.82
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 91,
+    "ingresos": 17466.54,
+    "precio": 191.94
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 78,
+    "ingresos": 16778.58,
+    "precio": 215.11
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 72,
+    "ingresos": 21434.4,
+    "precio": 297.7
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 89,
+    "ingresos": 18388.29,
+    "precio": 206.61
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 147,
+    "ingresos": 31712.31,
+    "precio": 215.73
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 101,
+    "ingresos": 19947.5,
+    "precio": 197.5
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 86,
+    "ingresos": 18107.3,
+    "precio": 210.55
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 188,
+    "ingresos": 34742.4,
+    "precio": 184.8
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 131,
+    "ingresos": 26613.96,
+    "precio": 203.16
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 118,
+    "ingresos": 22726.8,
+    "precio": 192.6
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 75,
+    "ingresos": 23370.75,
+    "precio": 311.61
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 82,
+    "ingresos": 22870.62,
+    "precio": 278.91
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 177,
+    "ingresos": 34904.4,
+    "precio": 197.2
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 48,
+    "ingresos": 13614.24,
+    "precio": 283.63
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 193,
+    "ingresos": 39041.97,
+    "precio": 202.29
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 165,
+    "ingresos": 34489.95,
+    "precio": 209.03
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 103,
+    "ingresos": 19436.1,
+    "precio": 188.7
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 79,
+    "ingresos": 22067.86,
+    "precio": 279.34
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 54,
+    "ingresos": 15886.26,
+    "precio": 294.19
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 64,
+    "ingresos": 19921.92,
+    "precio": 311.28
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 92,
+    "ingresos": 18589.52,
+    "precio": 202.06
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 120,
+    "ingresos": 22558.8,
+    "precio": 187.99
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 113,
+    "ingresos": 23728.87,
+    "precio": 209.99
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 76,
+    "ingresos": 15850.56,
+    "precio": 208.56
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 137,
+    "ingresos": 27552.07,
+    "precio": 201.11
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 53,
+    "ingresos": 15423.53,
+    "precio": 291.01
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 58,
+    "ingresos": 12011.8,
+    "precio": 207.1
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 163,
+    "ingresos": 31708.39,
+    "precio": 194.53
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 124,
+    "ingresos": 26512.44,
+    "precio": 213.81
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 79,
+    "ingresos": 16448.59,
+    "precio": 208.21
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 88,
+    "ingresos": 18150.88,
+    "precio": 206.26
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 76,
+    "ingresos": 15344.4,
+    "precio": 201.9
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 61,
+    "ingresos": 19159.49,
+    "precio": 314.09
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 108,
+    "ingresos": 21188.52,
+    "precio": 196.19
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 68,
+    "ingresos": 18928.48,
+    "precio": 278.36
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 103,
+    "ingresos": 19780.12,
+    "precio": 192.04
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 76,
+    "ingresos": 24485.68,
+    "precio": 322.18
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 95,
+    "ingresos": 18526.9,
+    "precio": 195.02
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 63,
+    "ingresos": 17811.36,
+    "precio": 282.72
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 82,
+    "ingresos": 16492.66,
+    "precio": 201.13
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 98,
+    "ingresos": 20805.4,
+    "precio": 212.3
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 106,
+    "ingresos": 20162.26,
+    "precio": 190.21
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 105,
+    "ingresos": 19849.2,
+    "precio": 189.04
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 76,
+    "ingresos": 14768.32,
+    "precio": 194.32
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 48,
+    "ingresos": 14241.6,
+    "precio": 296.7
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 146,
+    "ingresos": 30664.38,
+    "precio": 210.03
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 56,
+    "ingresos": 16999.36,
+    "precio": 303.56
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 57,
+    "ingresos": 15971.4,
+    "precio": 280.2
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 110,
+    "ingresos": 22898.7,
+    "precio": 208.17
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 102,
+    "ingresos": 20821.26,
+    "precio": 204.13
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 141,
+    "ingresos": 26290.86,
+    "precio": 186.46
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 73,
+    "ingresos": 20518.84,
+    "precio": 281.08
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 65,
+    "ingresos": 20378.8,
+    "precio": 313.52
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 64,
+    "ingresos": 17930.24,
+    "precio": 280.16
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 126,
+    "ingresos": 23743.44,
+    "precio": 188.44
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 61,
+    "ingresos": 19551.11,
+    "precio": 320.51
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 130,
+    "ingresos": 24511.5,
+    "precio": 188.55
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 117,
+    "ingresos": 25023.96,
+    "precio": 213.88
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 154,
+    "ingresos": 32649.54,
+    "precio": 212.01
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 81,
+    "ingresos": 16689.24,
+    "precio": 206.04
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 144,
+    "ingresos": 27480.96,
+    "precio": 190.84
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 73,
+    "ingresos": 21845.25,
+    "precio": 299.25
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 141,
+    "ingresos": 28974.09,
+    "precio": 205.49
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 73,
+    "ingresos": 21663.48,
+    "precio": 296.76
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 82,
+    "ingresos": 17704.62,
+    "precio": 215.91
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 45,
+    "ingresos": 12768.3,
+    "precio": 283.74
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 53,
+    "ingresos": 15847.53,
+    "precio": 299.01
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 98,
+    "ingresos": 18415.18,
+    "precio": 187.91
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 72,
+    "ingresos": 22358.16,
+    "precio": 310.53
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 158,
+    "ingresos": 30925.34,
+    "precio": 195.73
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 59,
+    "ingresos": 19097.12,
+    "precio": 323.68
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 112,
+    "ingresos": 23320.64,
+    "precio": 208.22
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 143,
+    "ingresos": 30348.89,
+    "precio": 212.23
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 97,
+    "ingresos": 19539.68,
+    "precio": 201.44
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 131,
+    "ingresos": 27196.91,
+    "precio": 207.61
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 147,
+    "ingresos": 30464.28,
+    "precio": 207.24
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 251,
+    "ingresos": 50011.75,
+    "precio": 199.25
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 110,
+    "ingresos": 32927.4,
+    "precio": 299.34
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 161,
+    "ingresos": 33151.51,
+    "precio": 205.91
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 71,
+    "ingresos": 19976.56,
+    "precio": 281.36
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 107,
+    "ingresos": 22670.09,
+    "precio": 211.87
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 59,
+    "ingresos": 17772.57,
+    "precio": 301.23
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 113,
+    "ingresos": 21968.33,
+    "precio": 194.41
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 129,
+    "ingresos": 40307.34,
+    "precio": 312.46
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 94,
+    "ingresos": 18769.92,
+    "precio": 199.68
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 137,
+    "ingresos": 26939.68,
+    "precio": 196.64
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 60,
+    "ingresos": 17697.6,
+    "precio": 294.96
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 67,
+    "ingresos": 12795.66,
+    "precio": 190.98
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 178,
+    "ingresos": 36730.3,
+    "precio": 206.35
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 68,
+    "ingresos": 20873.28,
+    "precio": 306.96
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 81,
+    "ingresos": 16085.79,
+    "precio": 198.59
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 67,
+    "ingresos": 14024.44,
+    "precio": 209.32
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 135,
+    "ingresos": 28688.85,
+    "precio": 212.51
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 83,
+    "ingresos": 26715.21,
+    "precio": 321.87
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 129,
+    "ingresos": 24571.92,
+    "precio": 190.48
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 79,
+    "ingresos": 15402.63,
+    "precio": 194.97
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 58,
+    "ingresos": 16169.82,
+    "precio": 278.79
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 105,
+    "ingresos": 19512.15,
+    "precio": 185.83
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 102,
+    "ingresos": 20311.26,
+    "precio": 199.13
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 106,
+    "ingresos": 19526.26,
+    "precio": 184.21
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 93,
+    "ingresos": 18607.44,
+    "precio": 200.08
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 111,
+    "ingresos": 20477.28,
+    "precio": 184.48
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 107,
+    "ingresos": 20962.37,
+    "precio": 195.91
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 112,
+    "ingresos": 23476.32,
+    "precio": 209.61
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 144,
+    "ingresos": 28510.56,
+    "precio": 197.99
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 77,
+    "ingresos": 23519.65,
+    "precio": 305.45
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 112,
+    "ingresos": 22475.04,
+    "precio": 200.67
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 180,
+    "ingresos": 37947.6,
+    "precio": 210.82
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 111,
+    "ingresos": 23600.82,
+    "precio": 212.62
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 161,
+    "ingresos": 34185.13,
+    "precio": 212.33
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 107,
+    "ingresos": 21623.63,
+    "precio": 202.09
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 86,
+    "ingresos": 24864.32,
+    "precio": 289.12
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 142,
+    "ingresos": 27437.24,
+    "precio": 193.22
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 51,
+    "ingresos": 14149.95,
+    "precio": 277.45
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 77,
+    "ingresos": 15336.86,
+    "precio": 199.18
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 109,
+    "ingresos": 20482.19,
+    "precio": 187.91
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 82,
+    "ingresos": 24755.8,
+    "precio": 301.9
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 161,
+    "ingresos": 32827.9,
+    "precio": 203.9
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 59,
+    "ingresos": 11797.05,
+    "precio": 199.95
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 147,
+    "ingresos": 30456.93,
+    "precio": 207.19
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 146,
+    "ingresos": 29436.52,
+    "precio": 201.62
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 98,
+    "ingresos": 19831.28,
+    "precio": 202.36
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 91,
+    "ingresos": 26055.12,
+    "precio": 286.32
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 175,
+    "ingresos": 36834.0,
+    "precio": 210.48
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 67,
+    "ingresos": 19440.72,
+    "precio": 290.16
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 104,
+    "ingresos": 22158.24,
+    "precio": 213.06
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 140,
+    "ingresos": 27038.2,
+    "precio": 193.13
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 148,
+    "ingresos": 30199.4,
+    "precio": 204.05
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 71,
+    "ingresos": 22980.57,
+    "precio": 323.67
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 63,
+    "ingresos": 20209.14,
+    "precio": 320.78
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 89,
+    "ingresos": 17848.06,
+    "precio": 200.54
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 175,
+    "ingresos": 36482.25,
+    "precio": 208.47
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 73,
+    "ingresos": 20777.26,
+    "precio": 284.62
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 89,
+    "ingresos": 27658.53,
+    "precio": 310.77
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 129,
+    "ingresos": 26330.19,
+    "precio": 204.11
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 106,
+    "ingresos": 20930.76,
+    "precio": 197.46
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 128,
+    "ingresos": 23950.08,
+    "precio": 187.11
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 103,
+    "ingresos": 20362.07,
+    "precio": 197.69
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 94,
+    "ingresos": 29691.78,
+    "precio": 315.87
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 60,
+    "ingresos": 17944.2,
+    "precio": 299.07
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 101,
+    "ingresos": 18621.37,
+    "precio": 184.37
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 73,
+    "ingresos": 21783.93,
+    "precio": 298.41
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 58,
+    "ingresos": 17540.94,
+    "precio": 302.43
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 163,
+    "ingresos": 33540.51,
+    "precio": 205.77
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 54,
+    "ingresos": 17255.7,
+    "precio": 319.55
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 67,
+    "ingresos": 19651.77,
+    "precio": 293.31
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 92,
+    "ingresos": 19090.92,
+    "precio": 207.51
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 108,
+    "ingresos": 22677.84,
+    "precio": 209.98
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 63,
+    "ingresos": 18489.87,
+    "precio": 293.49
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 51,
+    "ingresos": 15261.24,
+    "precio": 299.24
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 113,
+    "ingresos": 23290.43,
+    "precio": 206.11
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 101,
+    "ingresos": 31205.97,
+    "precio": 308.97
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 54,
+    "ingresos": 15093.54,
+    "precio": 279.51
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 142,
+    "ingresos": 29533.16,
+    "precio": 207.98
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 52,
+    "ingresos": 14710.8,
+    "precio": 282.9
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 88,
+    "ingresos": 18164.96,
+    "precio": 206.42
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 156,
+    "ingresos": 30114.24,
+    "precio": 193.04
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 91,
+    "ingresos": 18213.65,
+    "precio": 200.15
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 230,
+    "ingresos": 45006.4,
+    "precio": 195.68
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 75,
+    "ingresos": 15036.0,
+    "precio": 200.48
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 63,
+    "ingresos": 19140.03,
+    "precio": 303.81
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 141,
+    "ingresos": 29428.11,
+    "precio": 208.71
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 60,
+    "ingresos": 16575.0,
+    "precio": 276.25
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 105,
+    "ingresos": 22539.3,
+    "precio": 214.66
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 81,
+    "ingresos": 25995.33,
+    "precio": 320.93
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 67,
+    "ingresos": 13667.33,
+    "precio": 203.99
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 117,
+    "ingresos": 21857.94,
+    "precio": 186.82
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 71,
+    "ingresos": 21951.78,
+    "precio": 309.18
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 95,
+    "ingresos": 18026.25,
+    "precio": 189.75
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 59,
+    "ingresos": 17072.83,
+    "precio": 289.37
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 120,
+    "ingresos": 25701.6,
+    "precio": 214.18
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 54,
+    "ingresos": 16099.02,
+    "precio": 298.13
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 56,
+    "ingresos": 11694.48,
+    "precio": 208.83
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 109,
+    "ingresos": 21318.22,
+    "precio": 195.58
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 78,
+    "ingresos": 15887.82,
+    "precio": 203.69
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 85,
+    "ingresos": 16869.1,
+    "precio": 198.46
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 57,
+    "ingresos": 12137.58,
+    "precio": 212.94
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 105,
+    "ingresos": 22329.3,
+    "precio": 212.66
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 130,
+    "ingresos": 24785.8,
+    "precio": 190.66
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 66,
+    "ingresos": 19439.64,
+    "precio": 294.54
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 170,
+    "ingresos": 34695.3,
+    "precio": 204.09
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 59,
+    "ingresos": 16939.49,
+    "precio": 287.11
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 157,
+    "ingresos": 31874.14,
+    "precio": 203.02
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 179,
+    "ingresos": 33958.09,
+    "precio": 189.71
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 83,
+    "ingresos": 25823.79,
+    "precio": 311.13
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 95,
+    "ingresos": 18018.65,
+    "precio": 189.67
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 54,
+    "ingresos": 15243.66,
+    "precio": 282.29
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 72,
+    "ingresos": 14637.6,
+    "precio": 203.3
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 134,
+    "ingresos": 26392.64,
+    "precio": 196.96
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 149,
+    "ingresos": 30483.91,
+    "precio": 204.59
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 90,
+    "ingresos": 16618.5,
+    "precio": 184.65
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 81,
+    "ingresos": 15716.43,
+    "precio": 194.03
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 114,
+    "ingresos": 22611.9,
+    "precio": 198.35
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 164,
+    "ingresos": 33198.52,
+    "precio": 202.43
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 58,
+    "ingresos": 18033.94,
+    "precio": 310.93
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 208,
+    "ingresos": 40911.52,
+    "precio": 196.69
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 87,
+    "ingresos": 17375.64,
+    "precio": 199.72
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 112,
+    "ingresos": 23532.32,
+    "precio": 210.11
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 71,
+    "ingresos": 15189.74,
+    "precio": 213.94
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 49,
+    "ingresos": 14556.92,
+    "precio": 297.08
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 116,
+    "ingresos": 24630.28,
+    "precio": 212.33
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 79,
+    "ingresos": 23682.62,
+    "precio": 299.78
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 153,
+    "ingresos": 31729.14,
+    "precio": 207.38
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 47,
+    "ingresos": 15083.24,
+    "precio": 320.92
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 81,
+    "ingresos": 26190.54,
+    "precio": 323.34
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 136,
+    "ingresos": 28859.2,
+    "precio": 212.2
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 123,
+    "ingresos": 25786.95,
+    "precio": 209.65
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 140,
+    "ingresos": 28828.8,
+    "precio": 205.92
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 85,
+    "ingresos": 18059.1,
+    "precio": 212.46
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 83,
+    "ingresos": 16297.88,
+    "precio": 196.36
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 117,
+    "ingresos": 23953.41,
+    "precio": 204.73
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 114,
+    "ingresos": 23814.6,
+    "precio": 208.9
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 80,
+    "ingresos": 16936.0,
+    "precio": 211.7
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 92,
+    "ingresos": 19302.52,
+    "precio": 209.81
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 122,
+    "ingresos": 22909.16,
+    "precio": 187.78
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 113,
+    "ingresos": 22010.14,
+    "precio": 194.78
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 55,
+    "ingresos": 15639.25,
+    "precio": 284.35
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 82,
+    "ingresos": 16631.24,
+    "precio": 202.82
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 127,
+    "ingresos": 24908.51,
+    "precio": 196.13
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 139,
+    "ingresos": 30010.1,
+    "precio": 215.9
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 57,
+    "ingresos": 17788.56,
+    "precio": 312.08
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 71,
+    "ingresos": 20932.22,
+    "precio": 294.82
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 105,
+    "ingresos": 20409.9,
+    "precio": 194.38
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 92,
+    "ingresos": 19838.88,
+    "precio": 215.64
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 65,
+    "ingresos": 18137.6,
+    "precio": 279.04
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 86,
+    "ingresos": 18323.16,
+    "precio": 213.06
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 152,
+    "ingresos": 30948.72,
+    "precio": 203.61
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 105,
+    "ingresos": 21117.6,
+    "precio": 201.12
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 49,
+    "ingresos": 15706.95,
+    "precio": 320.55
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 45,
+    "ingresos": 13287.6,
+    "precio": 295.28
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 158,
+    "ingresos": 31587.36,
+    "precio": 199.92
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 108,
+    "ingresos": 21794.4,
+    "precio": 201.8
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 82,
+    "ingresos": 23806.24,
+    "precio": 290.32
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 116,
+    "ingresos": 24747.44,
+    "precio": 213.34
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 104,
+    "ingresos": 19579.04,
+    "precio": 188.26
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 238,
+    "ingresos": 50817.76,
+    "precio": 213.52
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 174,
+    "ingresos": 34109.22,
+    "precio": 196.03
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 46,
+    "ingresos": 14405.36,
+    "precio": 313.16
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 87,
+    "ingresos": 17327.79,
+    "precio": 199.17
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 57,
+    "ingresos": 16589.28,
+    "precio": 291.04
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 84,
+    "ingresos": 25806.48,
+    "precio": 307.22
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 137,
+    "ingresos": 27501.38,
+    "precio": 200.74
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 107,
+    "ingresos": 21388.23,
+    "precio": 199.89
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 96,
+    "ingresos": 29244.48,
+    "precio": 304.63
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 96,
+    "ingresos": 19046.4,
+    "precio": 198.4
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 116,
+    "ingresos": 23059.64,
+    "precio": 198.79
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 129,
+    "ingresos": 40801.41,
+    "precio": 316.29
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 94,
+    "ingresos": 17972.8,
+    "precio": 191.2
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 81,
+    "ingresos": 23958.18,
+    "precio": 295.78
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 107,
+    "ingresos": 21253.41,
+    "precio": 198.63
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 66,
+    "ingresos": 20566.92,
+    "precio": 311.62
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 137,
+    "ingresos": 25813.54,
+    "precio": 188.42
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 141,
+    "ingresos": 27345.54,
+    "precio": 193.94
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 99,
+    "ingresos": 19631.7,
+    "precio": 198.3
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 97,
+    "ingresos": 19645.41,
+    "precio": 202.53
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 103,
+    "ingresos": 30679.58,
+    "precio": 297.86
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 96,
+    "ingresos": 28057.92,
+    "precio": 292.27
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 58,
+    "ingresos": 16318.88,
+    "precio": 281.36
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 122,
+    "ingresos": 25687.1,
+    "precio": 210.55
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 53,
+    "ingresos": 16432.12,
+    "precio": 310.04
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 116,
+    "ingresos": 24134.96,
+    "precio": 208.06
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 60,
+    "ingresos": 18064.8,
+    "precio": 301.08
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 73,
+    "ingresos": 22928.57,
+    "precio": 314.09
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 127,
+    "ingresos": 25204.42,
+    "precio": 198.46
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 68,
+    "ingresos": 21698.8,
+    "precio": 319.1
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 124,
+    "ingresos": 25990.4,
+    "precio": 209.6
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 181,
+    "ingresos": 37349.35,
+    "precio": 206.35
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 77,
+    "ingresos": 14197.26,
+    "precio": 184.38
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 169,
+    "ingresos": 35843.21,
+    "precio": 212.09
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 252,
+    "ingresos": 52922.52,
+    "precio": 210.01
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 140,
+    "ingresos": 25922.4,
+    "precio": 185.16
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 133,
+    "ingresos": 28419.44,
+    "precio": 213.68
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 78,
+    "ingresos": 14973.66,
+    "precio": 191.97
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 119,
+    "ingresos": 22086.4,
+    "precio": 185.6
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 145,
+    "ingresos": 29398.75,
+    "precio": 202.75
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 48,
+    "ingresos": 14994.24,
+    "precio": 312.38
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 79,
+    "ingresos": 15492.69,
+    "precio": 196.11
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 110,
+    "ingresos": 21693.1,
+    "precio": 197.21
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 58,
+    "ingresos": 16917.44,
+    "precio": 291.68
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 77,
+    "ingresos": 14243.46,
+    "precio": 184.98
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 72,
+    "ingresos": 14948.64,
+    "precio": 207.62
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 53,
+    "ingresos": 15375.83,
+    "precio": 290.11
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 104,
+    "ingresos": 22008.48,
+    "precio": 211.62
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 80,
+    "ingresos": 16070.4,
+    "precio": 200.88
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 61,
+    "ingresos": 18844.12,
+    "precio": 308.92
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 123,
+    "ingresos": 24730.38,
+    "precio": 201.06
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 125,
+    "ingresos": 25136.25,
+    "precio": 201.09
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 72,
+    "ingresos": 21027.6,
+    "precio": 292.05
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 66,
+    "ingresos": 19263.42,
+    "precio": 291.87
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 98,
+    "ingresos": 18181.94,
+    "precio": 185.53
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 125,
+    "ingresos": 25238.75,
+    "precio": 201.91
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 108,
+    "ingresos": 20915.28,
+    "precio": 193.66
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 116,
+    "ingresos": 21961.12,
+    "precio": 189.32
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 126,
+    "ingresos": 26971.56,
+    "precio": 214.06
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 66,
+    "ingresos": 21245.4,
+    "precio": 321.9
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 55,
+    "ingresos": 17518.05,
+    "precio": 318.51
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 70,
+    "ingresos": 20703.2,
+    "precio": 295.76
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 44,
+    "ingresos": 12942.16,
+    "precio": 294.14
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 82,
+    "ingresos": 16738.66,
+    "precio": 204.13
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 73,
+    "ingresos": 23221.3,
+    "precio": 318.1
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 124,
+    "ingresos": 24798.76,
+    "precio": 199.99
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 250,
+    "ingresos": 49480.0,
+    "precio": 197.92
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 114,
+    "ingresos": 24554.46,
+    "precio": 215.39
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 145,
+    "ingresos": 27312.2,
+    "precio": 188.36
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 58,
+    "ingresos": 16404.72,
+    "precio": 282.84
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 127,
+    "ingresos": 25231.09,
+    "precio": 198.67
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 75,
+    "ingresos": 23550.0,
+    "precio": 314.0
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 89,
+    "ingresos": 17702.99,
+    "precio": 198.91
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 107,
+    "ingresos": 22012.04,
+    "precio": 205.72
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 78,
+    "ingresos": 23378.94,
+    "precio": 299.73
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 110,
+    "ingresos": 20468.8,
+    "precio": 186.08
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 75,
+    "ingresos": 21033.0,
+    "precio": 280.44
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 78,
+    "ingresos": 16638.18,
+    "precio": 213.31
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 59,
+    "ingresos": 16453.92,
+    "precio": 278.88
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 76,
+    "ingresos": 16352.16,
+    "precio": 215.16
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 83,
+    "ingresos": 15467.05,
+    "precio": 186.35
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 107,
+    "ingresos": 34394.08,
+    "precio": 321.44
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 67,
+    "ingresos": 19009.24,
+    "precio": 283.72
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 154,
+    "ingresos": 29527.96,
+    "precio": 191.74
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 61,
+    "ingresos": 19126.55,
+    "precio": 313.55
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 149,
+    "ingresos": 27763.17,
+    "precio": 186.33
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 159,
+    "ingresos": 29359.35,
+    "precio": 184.65
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 133,
+    "ingresos": 25867.17,
+    "precio": 194.49
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 105,
+    "ingresos": 22034.25,
+    "precio": 209.85
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 70,
+    "ingresos": 22579.2,
+    "precio": 322.56
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 95,
+    "ingresos": 17793.5,
+    "precio": 187.3
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 79,
+    "ingresos": 23423.5,
+    "precio": 296.5
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 77,
+    "ingresos": 15848.14,
+    "precio": 205.82
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 97,
+    "ingresos": 19099.3,
+    "precio": 196.9
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 123,
+    "ingresos": 23292.51,
+    "precio": 189.37
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 88,
+    "ingresos": 17960.8,
+    "precio": 204.1
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 118,
+    "ingresos": 24731.62,
+    "precio": 209.59
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 70,
+    "ingresos": 22498.7,
+    "precio": 321.41
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 211,
+    "ingresos": 42613.56,
+    "precio": 201.96
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 99,
+    "ingresos": 20572.2,
+    "precio": 207.8
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 76,
+    "ingresos": 21376.52,
+    "precio": 281.27
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 117,
+    "ingresos": 23459.67,
+    "precio": 200.51
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 90,
+    "ingresos": 17167.5,
+    "precio": 190.75
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 138,
+    "ingresos": 26324.88,
+    "precio": 190.76
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 70,
+    "ingresos": 21093.1,
+    "precio": 301.33
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 66,
+    "ingresos": 21026.28,
+    "precio": 318.58
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 102,
+    "ingresos": 20190.9,
+    "precio": 197.95
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 61,
+    "ingresos": 17711.35,
+    "precio": 290.35
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 73,
+    "ingresos": 20615.2,
+    "precio": 282.4
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 77,
+    "ingresos": 23778.37,
+    "precio": 308.81
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 139,
+    "ingresos": 28461.64,
+    "precio": 204.76
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 77,
+    "ingresos": 23014.53,
+    "precio": 298.89
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 78,
+    "ingresos": 15480.66,
+    "precio": 198.47
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 62,
+    "ingresos": 12336.76,
+    "precio": 198.98
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 92,
+    "ingresos": 17982.32,
+    "precio": 195.46
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 99,
+    "ingresos": 18241.74,
+    "precio": 184.26
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 91,
+    "ingresos": 18928.0,
+    "precio": 208.0
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 163,
+    "ingresos": 32301.71,
+    "precio": 198.17
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 141,
+    "ingresos": 30412.29,
+    "precio": 215.69
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 72,
+    "ingresos": 21139.2,
+    "precio": 293.6
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 59,
+    "ingresos": 17232.13,
+    "precio": 292.07
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 89,
+    "ingresos": 18020.72,
+    "precio": 202.48
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 142,
+    "ingresos": 30566.92,
+    "precio": 215.26
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 118,
+    "ingresos": 22302.0,
+    "precio": 189.0
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 119,
+    "ingresos": 22449.35,
+    "precio": 188.65
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 88,
+    "ingresos": 24403.28,
+    "precio": 277.31
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 183,
+    "ingresos": 37974.33,
+    "precio": 207.51
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 110,
+    "ingresos": 22029.7,
+    "precio": 200.27
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 111,
+    "ingresos": 23649.66,
+    "precio": 213.06
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 54,
+    "ingresos": 17371.8,
+    "precio": 321.7
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 117,
+    "ingresos": 21565.44,
+    "precio": 184.32
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 47,
+    "ingresos": 15125.54,
+    "precio": 321.82
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 123,
+    "ingresos": 26030.49,
+    "precio": 211.63
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 81,
+    "ingresos": 25340.85,
+    "precio": 312.85
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 129,
+    "ingresos": 40184.79,
+    "precio": 311.51
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 149,
+    "ingresos": 30810.22,
+    "precio": 206.78
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 53,
+    "ingresos": 16759.66,
+    "precio": 316.22
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 105,
+    "ingresos": 20590.5,
+    "precio": 196.1
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 54,
+    "ingresos": 16062.3,
+    "precio": 297.45
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 77,
+    "ingresos": 15058.12,
+    "precio": 195.56
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 168,
+    "ingresos": 34666.8,
+    "precio": 206.35
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 142,
+    "ingresos": 30548.46,
+    "precio": 215.13
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 129,
+    "ingresos": 25846.44,
+    "precio": 200.36
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 177,
+    "ingresos": 37670.91,
+    "precio": 212.83
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 104,
+    "ingresos": 19467.76,
+    "precio": 187.19
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 90,
+    "ingresos": 17753.4,
+    "precio": 197.26
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 92,
+    "ingresos": 17000.68,
+    "precio": 184.79
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 153,
+    "ingresos": 28604.88,
+    "precio": 186.96
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 106,
+    "ingresos": 20230.1,
+    "precio": 190.85
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 233,
+    "ingresos": 49179.31,
+    "precio": 211.07
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 75,
+    "ingresos": 14255.25,
+    "precio": 190.07
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 90,
+    "ingresos": 28356.3,
+    "precio": 315.07
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 103,
+    "ingresos": 21714.46,
+    "precio": 210.82
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 54,
+    "ingresos": 15467.22,
+    "precio": 286.43
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 96,
+    "ingresos": 20095.68,
+    "precio": 209.33
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 97,
+    "ingresos": 19970.36,
+    "precio": 205.88
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 144,
+    "ingresos": 31049.28,
+    "precio": 215.62
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 124,
+    "ingresos": 37159.08,
+    "precio": 299.67
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 100,
+    "ingresos": 19618.0,
+    "precio": 196.18
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 50,
+    "ingresos": 15851.0,
+    "precio": 317.02
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 72,
+    "ingresos": 22562.64,
+    "precio": 313.37
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 154,
+    "ingresos": 30254.84,
+    "precio": 196.46
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 116,
+    "ingresos": 23026.0,
+    "precio": 198.5
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 82,
+    "ingresos": 24416.32,
+    "precio": 297.76
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 93,
+    "ingresos": 19165.44,
+    "precio": 206.08
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 153,
+    "ingresos": 32223.33,
+    "precio": 210.61
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 100,
+    "ingresos": 19415.0,
+    "precio": 194.15
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 113,
+    "ingresos": 23884.81,
+    "precio": 211.37
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 92,
+    "ingresos": 17641.0,
+    "precio": 191.75
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 61,
+    "ingresos": 19208.9,
+    "precio": 314.9
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 99,
+    "ingresos": 19864.35,
+    "precio": 200.65
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 61,
+    "ingresos": 12952.74,
+    "precio": 212.34
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 128,
+    "ingresos": 25406.72,
+    "precio": 198.49
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 52,
+    "ingresos": 14438.32,
+    "precio": 277.66
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 64,
+    "ingresos": 12517.76,
+    "precio": 195.59
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 72,
+    "ingresos": 20091.6,
+    "precio": 279.05
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 116,
+    "ingresos": 22505.16,
+    "precio": 194.01
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 110,
+    "ingresos": 21335.6,
+    "precio": 193.96
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 73,
+    "ingresos": 22359.9,
+    "precio": 306.3
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 95,
+    "ingresos": 18291.3,
+    "precio": 192.54
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 83,
+    "ingresos": 26443.8,
+    "precio": 318.6
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 64,
+    "ingresos": 18127.36,
+    "precio": 283.24
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 145,
+    "ingresos": 26835.15,
+    "precio": 185.07
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 130,
+    "ingresos": 24939.2,
+    "precio": 191.84
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 147,
+    "ingresos": 30539.25,
+    "precio": 207.75
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 90,
+    "ingresos": 16794.9,
+    "precio": 186.61
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 115,
+    "ingresos": 22139.8,
+    "precio": 192.52
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 125,
+    "ingresos": 25518.75,
+    "precio": 204.15
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 60,
+    "ingresos": 18366.0,
+    "precio": 306.1
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 122,
+    "ingresos": 24401.22,
+    "precio": 200.01
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 55,
+    "ingresos": 15596.35,
+    "precio": 283.57
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 56,
+    "ingresos": 16322.88,
+    "precio": 291.48
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 119,
+    "ingresos": 23141.93,
+    "precio": 194.47
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 83,
+    "ingresos": 25834.58,
+    "precio": 311.26
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 82,
+    "ingresos": 26262.14,
+    "precio": 320.27
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 61,
+    "ingresos": 12103.62,
+    "precio": 198.42
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 58,
+    "ingresos": 16611.2,
+    "precio": 286.4
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 78,
+    "ingresos": 16410.42,
+    "precio": 210.39
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 106,
+    "ingresos": 32826.08,
+    "precio": 309.68
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 123,
+    "ingresos": 24026.82,
+    "precio": 195.34
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 170,
+    "ingresos": 33632.8,
+    "precio": 197.84
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 63,
+    "ingresos": 18547.83,
+    "precio": 294.41
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 131,
+    "ingresos": 25796.52,
+    "precio": 196.92
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 87,
+    "ingresos": 18676.29,
+    "precio": 214.67
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 70,
+    "ingresos": 14630.0,
+    "precio": 209.0
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 61,
+    "ingresos": 19591.37,
+    "precio": 321.17
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 124,
+    "ingresos": 26078.44,
+    "precio": 210.31
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 115,
+    "ingresos": 34057.25,
+    "precio": 296.15
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 62,
+    "ingresos": 18295.58,
+    "precio": 295.09
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 126,
+    "ingresos": 25019.82,
+    "precio": 198.57
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 141,
+    "ingresos": 28734.39,
+    "precio": 203.79
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 86,
+    "ingresos": 17937.02,
+    "precio": 208.57
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 54,
+    "ingresos": 16108.74,
+    "precio": 298.31
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 118,
+    "ingresos": 22681.96,
+    "precio": 192.22
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 123,
+    "ingresos": 34093.14,
+    "precio": 277.18
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 98,
+    "ingresos": 19315.8,
+    "precio": 197.1
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 87,
+    "ingresos": 17138.13,
+    "precio": 196.99
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 77,
+    "ingresos": 16057.58,
+    "precio": 208.54
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 160,
+    "ingresos": 31756.8,
+    "precio": 198.48
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 54,
+    "ingresos": 16629.84,
+    "precio": 307.96
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 55,
+    "ingresos": 10335.6,
+    "precio": 187.92
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 64,
+    "ingresos": 12976.64,
+    "precio": 202.76
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 202,
+    "ingresos": 41286.78,
+    "precio": 204.39
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 64,
+    "ingresos": 18519.68,
+    "precio": 289.37
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 64,
+    "ingresos": 12143.36,
+    "precio": 189.74
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 107,
+    "ingresos": 34513.92,
+    "precio": 322.56
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 162,
+    "ingresos": 32077.62,
+    "precio": 198.01
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 124,
+    "ingresos": 26332.64,
+    "precio": 212.36
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 108,
+    "ingresos": 21824.64,
+    "precio": 202.08
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 153,
+    "ingresos": 30785.13,
+    "precio": 201.21
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 133,
+    "ingresos": 25790.03,
+    "precio": 193.91
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 68,
+    "ingresos": 21874.92,
+    "precio": 321.69
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 63,
+    "ingresos": 18290.79,
+    "precio": 290.33
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 83,
+    "ingresos": 23647.53,
+    "precio": 284.91
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 91,
+    "ingresos": 25146.03,
+    "precio": 276.33
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 66,
+    "ingresos": 21335.16,
+    "precio": 323.26
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 116,
+    "ingresos": 22853.16,
+    "precio": 197.01
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 78,
+    "ingresos": 16665.48,
+    "precio": 213.66
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 60,
+    "ingresos": 19133.4,
+    "precio": 318.89
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 120,
+    "ingresos": 23414.4,
+    "precio": 195.12
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 146,
+    "ingresos": 30645.4,
+    "precio": 209.9
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 110,
+    "ingresos": 22346.5,
+    "precio": 203.15
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 97,
+    "ingresos": 19510.58,
+    "precio": 201.14
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 150,
+    "ingresos": 31863.0,
+    "precio": 212.42
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 110,
+    "ingresos": 23313.4,
+    "precio": 211.94
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 76,
+    "ingresos": 24183.2,
+    "precio": 318.2
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 147,
+    "ingresos": 27483.12,
+    "precio": 186.96
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 130,
+    "ingresos": 26742.3,
+    "precio": 205.71
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 147,
+    "ingresos": 28024.08,
+    "precio": 190.64
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 64,
+    "ingresos": 13122.56,
+    "precio": 205.04
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 106,
+    "ingresos": 22711.56,
+    "precio": 214.26
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 119,
+    "ingresos": 24653.23,
+    "precio": 207.17
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 58,
+    "ingresos": 17297.92,
+    "precio": 298.24
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 57,
+    "ingresos": 17748.09,
+    "precio": 311.37
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 66,
+    "ingresos": 20873.82,
+    "precio": 316.27
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 82,
+    "ingresos": 25813.6,
+    "precio": 314.8
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 96,
+    "ingresos": 19129.92,
+    "precio": 199.27
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 53,
+    "ingresos": 14727.11,
+    "precio": 277.87
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 48,
+    "ingresos": 13807.2,
+    "precio": 287.65
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 136,
+    "ingresos": 27965.68,
+    "precio": 205.63
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 78,
+    "ingresos": 16127.28,
+    "precio": 206.76
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 47,
+    "ingresos": 14343.46,
+    "precio": 305.18
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 104,
+    "ingresos": 20155.2,
+    "precio": 193.8
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 100,
+    "ingresos": 19687.0,
+    "precio": 196.87
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 142,
+    "ingresos": 28902.68,
+    "precio": 203.54
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 89,
+    "ingresos": 18961.45,
+    "precio": 213.05
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 143,
+    "ingresos": 27438.84,
+    "precio": 191.88
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 107,
+    "ingresos": 22618.73,
+    "precio": 211.39
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 68,
+    "ingresos": 19027.76,
+    "precio": 279.82
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 219,
+    "ingresos": 42203.49,
+    "precio": 192.71
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 88,
+    "ingresos": 18267.04,
+    "precio": 207.58
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 84,
+    "ingresos": 17815.56,
+    "precio": 212.09
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 95,
+    "ingresos": 18162.1,
+    "precio": 191.18
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 121,
+    "ingresos": 24865.5,
+    "precio": 205.5
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 93,
+    "ingresos": 19962.45,
+    "precio": 214.65
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 90,
+    "ingresos": 18554.4,
+    "precio": 206.16
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 57,
+    "ingresos": 15902.43,
+    "precio": 278.99
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 105,
+    "ingresos": 20837.25,
+    "precio": 198.45
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 190,
+    "ingresos": 36132.3,
+    "precio": 190.17
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 162,
+    "ingresos": 30606.66,
+    "precio": 188.93
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 125,
+    "ingresos": 26726.25,
+    "precio": 213.81
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 75,
+    "ingresos": 14253.75,
+    "precio": 190.05
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 69,
+    "ingresos": 13593.69,
+    "precio": 197.01
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 96,
+    "ingresos": 18359.04,
+    "precio": 191.24
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 116,
+    "ingresos": 22741.8,
+    "precio": 196.05
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 68,
+    "ingresos": 21822.56,
+    "precio": 320.92
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 73,
+    "ingresos": 13983.15,
+    "precio": 191.55
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 65,
+    "ingresos": 17962.75,
+    "precio": 276.35
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 101,
+    "ingresos": 18905.18,
+    "precio": 187.18
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 79,
+    "ingresos": 24187.43,
+    "precio": 306.17
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 102,
+    "ingresos": 19793.1,
+    "precio": 194.05
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 127,
+    "ingresos": 26873.2,
+    "precio": 211.6
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 68,
+    "ingresos": 20855.6,
+    "precio": 306.7
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 123,
+    "ingresos": 25559.4,
+    "precio": 207.8
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 105,
+    "ingresos": 22545.6,
+    "precio": 214.72
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 47,
+    "ingresos": 13728.7,
+    "precio": 292.1
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 68,
+    "ingresos": 12516.76,
+    "precio": 184.07
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 79,
+    "ingresos": 23781.37,
+    "precio": 301.03
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 49,
+    "ingresos": 14104.65,
+    "precio": 287.85
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 78,
+    "ingresos": 24471.72,
+    "precio": 313.74
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 71,
+    "ingresos": 13639.81,
+    "precio": 192.11
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 80,
+    "ingresos": 14918.4,
+    "precio": 186.48
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 124,
+    "ingresos": 22927.6,
+    "precio": 184.9
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 124,
+    "ingresos": 22969.76,
+    "precio": 185.24
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 117,
+    "ingresos": 24910.47,
+    "precio": 212.91
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 59,
+    "ingresos": 11430.66,
+    "precio": 193.74
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 111,
+    "ingresos": 21324.21,
+    "precio": 192.11
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 52,
+    "ingresos": 14592.76,
+    "precio": 280.63
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 72,
+    "ingresos": 14493.6,
+    "precio": 201.3
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 125,
+    "ingresos": 26885.0,
+    "precio": 215.08
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 156,
+    "ingresos": 29914.56,
+    "precio": 191.76
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 69,
+    "ingresos": 14128.44,
+    "precio": 204.76
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 113,
+    "ingresos": 23245.23,
+    "precio": 205.71
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 49,
+    "ingresos": 14879.83,
+    "precio": 303.67
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 92,
+    "ingresos": 17463.44,
+    "precio": 189.82
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 69,
+    "ingresos": 13323.9,
+    "precio": 193.1
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 124,
+    "ingresos": 25841.6,
+    "precio": 208.4
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 154,
+    "ingresos": 28619.36,
+    "precio": 185.84
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 118,
+    "ingresos": 22654.82,
+    "precio": 191.99
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 99,
+    "ingresos": 19113.93,
+    "precio": 193.07
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 95,
+    "ingresos": 19072.2,
+    "precio": 200.76
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 172,
+    "ingresos": 36873.36,
+    "precio": 214.38
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 104,
+    "ingresos": 21446.88,
+    "precio": 206.22
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 61,
+    "ingresos": 12271.37,
+    "precio": 201.17
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 140,
+    "ingresos": 28982.8,
+    "precio": 207.02
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 52,
+    "ingresos": 15464.28,
+    "precio": 297.39
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 93,
+    "ingresos": 18163.83,
+    "precio": 195.31
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 109,
+    "ingresos": 22315.57,
+    "precio": 204.73
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 158,
+    "ingresos": 32421.6,
+    "precio": 205.2
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 99,
+    "ingresos": 21368.16,
+    "precio": 215.84
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 129,
+    "ingresos": 27412.5,
+    "precio": 212.5
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 148,
+    "ingresos": 27778.12,
+    "precio": 187.69
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 154,
+    "ingresos": 30097.76,
+    "precio": 195.44
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 80,
+    "ingresos": 15462.4,
+    "precio": 193.28
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 106,
+    "ingresos": 21957.9,
+    "precio": 207.15
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 120,
+    "ingresos": 23078.4,
+    "precio": 192.32
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 255,
+    "ingresos": 50286.0,
+    "precio": 197.2
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 98,
+    "ingresos": 20499.64,
+    "precio": 209.18
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 87,
+    "ingresos": 16966.74,
+    "precio": 195.02
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 250,
+    "ingresos": 50310.0,
+    "precio": 201.24
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 76,
+    "ingresos": 15566.32,
+    "precio": 204.82
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Marzo",
+    "ventas": 45,
+    "ingresos": 14044.95,
+    "precio": 312.11
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 128,
+    "ingresos": 36218.88,
+    "precio": 282.96
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 75,
+    "ingresos": 22629.75,
+    "precio": 301.73
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 59,
+    "ingresos": 18012.7,
+    "precio": 305.3
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 89,
+    "ingresos": 17670.06,
+    "precio": 198.54
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 82,
+    "ingresos": 17210.16,
+    "precio": 209.88
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 108,
+    "ingresos": 23182.2,
+    "precio": 214.65
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 73,
+    "ingresos": 14151.78,
+    "precio": 193.86
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 153,
+    "ingresos": 29828.88,
+    "precio": 194.96
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 69,
+    "ingresos": 12971.31,
+    "precio": 187.99
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 77,
+    "ingresos": 24345.09,
+    "precio": 316.17
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 222,
+    "ingresos": 47248.26,
+    "precio": 212.83
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 66,
+    "ingresos": 20384.1,
+    "precio": 308.85
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 100,
+    "ingresos": 29970.0,
+    "precio": 299.7
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 87,
+    "ingresos": 26925.63,
+    "precio": 309.49
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 102,
+    "ingresos": 19309.62,
+    "precio": 189.31
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 110,
+    "ingresos": 22854.7,
+    "precio": 207.77
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 100,
+    "ingresos": 20410.0,
+    "precio": 204.1
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 83,
+    "ingresos": 16844.85,
+    "precio": 202.95
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 107,
+    "ingresos": 19717.96,
+    "precio": 184.28
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 80,
+    "ingresos": 24469.6,
+    "precio": 305.87
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 109,
+    "ingresos": 21030.46,
+    "precio": 192.94
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 94,
+    "ingresos": 20173.34,
+    "precio": 214.61
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 73,
+    "ingresos": 20356.78,
+    "precio": 278.86
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 138,
+    "ingresos": 25839.12,
+    "precio": 187.24
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 59,
+    "ingresos": 16704.67,
+    "precio": 283.13
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 147,
+    "ingresos": 30423.12,
+    "precio": 206.96
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 74,
+    "ingresos": 22308.04,
+    "precio": 301.46
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 85,
+    "ingresos": 16773.9,
+    "precio": 197.34
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 61,
+    "ingresos": 18070.03,
+    "precio": 296.23
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 100,
+    "ingresos": 21504.0,
+    "precio": 215.04
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 54,
+    "ingresos": 15272.28,
+    "precio": 282.82
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 44,
+    "ingresos": 12468.72,
+    "precio": 283.38
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 105,
+    "ingresos": 19488.0,
+    "precio": 185.6
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 102,
+    "ingresos": 20913.06,
+    "precio": 205.03
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 137,
+    "ingresos": 27394.52,
+    "precio": 199.96
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 79,
+    "ingresos": 14626.06,
+    "precio": 185.14
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 223,
+    "ingresos": 41370.96,
+    "precio": 185.52
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 71,
+    "ingresos": 21489.57,
+    "precio": 302.67
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 88,
+    "ingresos": 18622.56,
+    "precio": 211.62
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 107,
+    "ingresos": 21326.17,
+    "precio": 199.31
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 67,
+    "ingresos": 18861.84,
+    "precio": 281.52
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 128,
+    "ingresos": 26410.24,
+    "precio": 206.33
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 72,
+    "ingresos": 20054.88,
+    "precio": 278.54
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 54,
+    "ingresos": 15629.76,
+    "precio": 289.44
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 93,
+    "ingresos": 17257.08,
+    "precio": 185.56
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 58,
+    "ingresos": 17949.84,
+    "precio": 309.48
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 54,
+    "ingresos": 15724.8,
+    "precio": 291.2
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 50,
+    "ingresos": 14836.0,
+    "precio": 296.72
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 127,
+    "ingresos": 26015.95,
+    "precio": 204.85
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 84,
+    "ingresos": 16836.12,
+    "precio": 200.43
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 61,
+    "ingresos": 17168.45,
+    "precio": 281.45
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 115,
+    "ingresos": 24250.05,
+    "precio": 210.87
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 78,
+    "ingresos": 24569.22,
+    "precio": 314.99
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 79,
+    "ingresos": 16255.04,
+    "precio": 205.76
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 133,
+    "ingresos": 28219.94,
+    "precio": 212.18
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 181,
+    "ingresos": 35611.75,
+    "precio": 196.75
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 115,
+    "ingresos": 22965.5,
+    "precio": 199.7
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 116,
+    "ingresos": 22923.92,
+    "precio": 197.62
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 88,
+    "ingresos": 16396.16,
+    "precio": 186.32
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 68,
+    "ingresos": 12922.72,
+    "precio": 190.04
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 78,
+    "ingresos": 22533.42,
+    "precio": 288.89
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 140,
+    "ingresos": 26569.2,
+    "precio": 189.78
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 59,
+    "ingresos": 16635.05,
+    "precio": 281.95
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 87,
+    "ingresos": 16797.96,
+    "precio": 193.08
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 49,
+    "ingresos": 14805.84,
+    "precio": 302.16
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 54,
+    "ingresos": 17355.6,
+    "precio": 321.4
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 93,
+    "ingresos": 18520.95,
+    "precio": 199.15
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 84,
+    "ingresos": 17066.28,
+    "precio": 203.17
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 119,
+    "ingresos": 22637.37,
+    "precio": 190.23
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 157,
+    "ingresos": 32838.12,
+    "precio": 209.16
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 148,
+    "ingresos": 30073.6,
+    "precio": 203.2
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 58,
+    "ingresos": 16520.14,
+    "precio": 284.83
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 160,
+    "ingresos": 31755.2,
+    "precio": 198.47
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 121,
+    "ingresos": 25190.99,
+    "precio": 208.19
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 67,
+    "ingresos": 12604.71,
+    "precio": 188.13
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 140,
+    "ingresos": 26297.6,
+    "precio": 187.84
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 121,
+    "ingresos": 23333.64,
+    "precio": 192.84
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 54,
+    "ingresos": 16701.12,
+    "precio": 309.28
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 67,
+    "ingresos": 18648.78,
+    "precio": 278.34
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 126,
+    "ingresos": 40356.54,
+    "precio": 320.29
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 110,
+    "ingresos": 21222.3,
+    "precio": 192.93
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 64,
+    "ingresos": 12622.72,
+    "precio": 197.23
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 84,
+    "ingresos": 16772.28,
+    "precio": 199.67
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 83,
+    "ingresos": 24214.42,
+    "precio": 291.74
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 132,
+    "ingresos": 28460.52,
+    "precio": 215.61
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 168,
+    "ingresos": 34776.0,
+    "precio": 207.0
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 110,
+    "ingresos": 35475.0,
+    "precio": 322.5
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 70,
+    "ingresos": 21997.5,
+    "precio": 314.25
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 77,
+    "ingresos": 24680.04,
+    "precio": 320.52
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Noviembre",
+    "ventas": 188,
+    "ingresos": 37051.04,
+    "precio": 197.08
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Febrero",
+    "ventas": 53,
+    "ingresos": 16206.87,
+    "precio": 305.79
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 114,
+    "ingresos": 24017.52,
+    "precio": 210.68
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 73,
+    "ingresos": 15248.97,
+    "precio": 208.89
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 92,
+    "ingresos": 18703.6,
+    "precio": 203.3
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 71,
+    "ingresos": 14895.09,
+    "precio": 209.79
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 112,
+    "ingresos": 23214.24,
+    "precio": 207.27
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 122,
+    "ingresos": 26125.08,
+    "precio": 214.14
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 48,
+    "ingresos": 13301.76,
+    "precio": 277.12
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 54,
+    "ingresos": 16990.56,
+    "precio": 314.64
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 108,
+    "ingresos": 21138.84,
+    "precio": 195.73
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 60,
+    "ingresos": 17348.4,
+    "precio": 289.14
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 56,
+    "ingresos": 16046.24,
+    "precio": 286.54
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 95,
+    "ingresos": 29334.1,
+    "precio": 308.78
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 100,
+    "ingresos": 18876.0,
+    "precio": 188.76
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 101,
+    "ingresos": 21777.62,
+    "precio": 215.62
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 147,
+    "ingresos": 29848.35,
+    "precio": 203.05
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 105,
+    "ingresos": 19717.95,
+    "precio": 187.79
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 74,
+    "ingresos": 20931.64,
+    "precio": 282.86
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 55,
+    "ingresos": 11623.15,
+    "precio": 211.33
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 109,
+    "ingresos": 21796.73,
+    "precio": 199.97
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 135,
+    "ingresos": 25756.65,
+    "precio": 190.79
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 121,
+    "ingresos": 25668.94,
+    "precio": 212.14
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 83,
+    "ingresos": 16482.97,
+    "precio": 198.59
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 142,
+    "ingresos": 28664.12,
+    "precio": 201.86
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 110,
+    "ingresos": 21963.7,
+    "precio": 199.67
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 98,
+    "ingresos": 18589.62,
+    "precio": 189.69
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 95,
+    "ingresos": 17505.65,
+    "precio": 184.27
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Agosto",
+    "ventas": 68,
+    "ingresos": 21781.76,
+    "precio": 320.32
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 139,
+    "ingresos": 25720.56,
+    "precio": 185.04
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 85,
+    "ingresos": 25701.45,
+    "precio": 302.37
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 158,
+    "ingresos": 29402.22,
+    "precio": 186.09
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 56,
+    "ingresos": 16555.28,
+    "precio": 295.63
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 58,
+    "ingresos": 16071.8,
+    "precio": 277.1
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 94,
+    "ingresos": 19252.14,
+    "precio": 204.81
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 78,
+    "ingresos": 24793.08,
+    "precio": 317.86
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 207,
+    "ingresos": 41776.74,
+    "precio": 201.82
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 129,
+    "ingresos": 25980.6,
+    "precio": 201.4
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 103,
+    "ingresos": 28552.63,
+    "precio": 277.21
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 93,
+    "ingresos": 17876.46,
+    "precio": 192.22
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 96,
+    "ingresos": 19583.04,
+    "precio": 203.99
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 116,
+    "ingresos": 22341.6,
+    "precio": 192.6
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 90,
+    "ingresos": 19019.7,
+    "precio": 211.33
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 121,
+    "ingresos": 23822.48,
+    "precio": 196.88
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 144,
+    "ingresos": 30833.28,
+    "precio": 214.12
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Septiembre",
+    "ventas": 106,
+    "ingresos": 20471.78,
+    "precio": 193.13
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 96,
+    "ingresos": 18837.12,
+    "precio": 196.22
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 94,
+    "ingresos": 19503.12,
+    "precio": 207.48
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 112,
+    "ingresos": 23345.28,
+    "precio": 208.44
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 119,
+    "ingresos": 23834.51,
+    "precio": 200.29
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 59,
+    "ingresos": 16971.35,
+    "precio": 287.65
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 137,
+    "ingresos": 25851.9,
+    "precio": 188.7
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 99,
+    "ingresos": 19406.97,
+    "precio": 196.03
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 127,
+    "ingresos": 27351.99,
+    "precio": 215.37
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 47,
+    "ingresos": 13206.53,
+    "precio": 280.99
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 69,
+    "ingresos": 19277.22,
+    "precio": 279.38
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 84,
+    "ingresos": 23803.92,
+    "precio": 283.38
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 101,
+    "ingresos": 19352.61,
+    "precio": 191.61
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Abril",
+    "ventas": 136,
+    "ingresos": 26617.92,
+    "precio": 195.72
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 101,
+    "ingresos": 20128.29,
+    "precio": 199.29
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 72,
+    "ingresos": 14963.76,
+    "precio": 207.83
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Noviembre",
+    "ventas": 150,
+    "ingresos": 31479.0,
+    "precio": 209.86
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 89,
+    "ingresos": 18989.93,
+    "precio": 213.37
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 66,
+    "ingresos": 19218.54,
+    "precio": 291.19
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 113,
+    "ingresos": 22588.7,
+    "precio": 199.9
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 75,
+    "ingresos": 22962.75,
+    "precio": 306.17
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 100,
+    "ingresos": 29790.0,
+    "precio": 297.9
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 160,
+    "ingresos": 31254.4,
+    "precio": 195.34
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 123,
+    "ingresos": 24003.45,
+    "precio": 195.15
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 55,
+    "ingresos": 15880.15,
+    "precio": 288.73
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 166,
+    "ingresos": 33211.62,
+    "precio": 200.07
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Marzo",
+    "ventas": 117,
+    "ingresos": 25174.89,
+    "precio": 215.17
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 132,
+    "ingresos": 24946.68,
+    "precio": 188.99
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 118,
+    "ingresos": 24110.94,
+    "precio": 204.33
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 113,
+    "ingresos": 23689.32,
+    "precio": 209.64
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 81,
+    "ingresos": 15802.29,
+    "precio": 195.09
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 74,
+    "ingresos": 14008.2,
+    "precio": 189.3
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 86,
+    "ingresos": 17702.24,
+    "precio": 205.84
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 71,
+    "ingresos": 22868.39,
+    "precio": 322.09
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Diciembre",
+    "ventas": 109,
+    "ingresos": 30530.9,
+    "precio": 280.1
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 96,
+    "ingresos": 20453.76,
+    "precio": 213.06
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 67,
+    "ingresos": 14034.49,
+    "precio": 209.47
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 104,
+    "ingresos": 20287.28,
+    "precio": 195.07
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 107,
+    "ingresos": 34639.11,
+    "precio": 323.73
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 145,
+    "ingresos": 26871.4,
+    "precio": 185.32
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 148,
+    "ingresos": 28473.72,
+    "precio": 192.39
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 45,
+    "ingresos": 13854.15,
+    "precio": 307.87
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 49,
+    "ingresos": 13991.46,
+    "precio": 285.54
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 68,
+    "ingresos": 20101.48,
+    "precio": 295.61
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 157,
+    "ingresos": 33400.18,
+    "precio": 212.74
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Agosto",
+    "ventas": 160,
+    "ingresos": 31822.4,
+    "precio": 198.89
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Enero",
+    "ventas": 121,
+    "ingresos": 23194.49,
+    "precio": 191.69
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 112,
+    "ingresos": 20945.12,
+    "precio": 187.01
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 60,
+    "ingresos": 19265.4,
+    "precio": 321.09
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Mayo",
+    "ventas": 116,
+    "ingresos": 21444.92,
+    "precio": 184.87
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 53,
+    "ingresos": 16760.72,
+    "precio": 316.24
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 89,
+    "ingresos": 18412.32,
+    "precio": 206.88
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Julio",
+    "ventas": 73,
+    "ingresos": 23583.38,
+    "precio": 323.06
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Noviembre",
+    "ventas": 68,
+    "ingresos": 19394.28,
+    "precio": 285.21
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Junio",
+    "ventas": 104,
+    "ingresos": 21131.76,
+    "precio": 203.19
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Marzo",
+    "ventas": 96,
+    "ingresos": 18036.48,
+    "precio": 187.88
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Octubre",
+    "ventas": 74,
+    "ingresos": 23421.0,
+    "precio": 316.5
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Febrero",
+    "ventas": 106,
+    "ingresos": 20448.46,
+    "precio": 192.91
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 57,
+    "ingresos": 18324.93,
+    "precio": 321.49
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 83,
+    "ingresos": 15804.86,
+    "precio": 190.42
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 79,
+    "ingresos": 14912.83,
+    "precio": 188.77
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Abril",
+    "ventas": 72,
+    "ingresos": 22492.8,
+    "precio": 312.4
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 71,
+    "ingresos": 14084.98,
+    "precio": 198.38
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Enero",
+    "ventas": 58,
+    "ingresos": 11871.44,
+    "precio": 204.68
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Mayo",
+    "ventas": 79,
+    "ingresos": 24514.49,
+    "precio": 310.31
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Febrero",
+    "ventas": 88,
+    "ingresos": 17732.88,
+    "precio": 201.51
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Abril",
+    "ventas": 106,
+    "ingresos": 22764.56,
+    "precio": 214.76
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Junio",
+    "ventas": 71,
+    "ingresos": 13366.46,
+    "precio": 188.26
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Octubre",
+    "ventas": 133,
+    "ingresos": 27157.27,
+    "precio": 204.19
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Julio",
+    "ventas": 92,
+    "ingresos": 17057.72,
+    "precio": 185.41
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Septiembre",
+    "ventas": 74,
+    "ingresos": 22149.68,
+    "precio": 299.32
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Diciembre",
+    "ventas": 169,
+    "ingresos": 34599.37,
+    "precio": 204.73
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Enero",
+    "ventas": 47,
+    "ingresos": 13535.06,
+    "precio": 287.98
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Mayo",
+    "ventas": 112,
+    "ingresos": 20933.92,
+    "precio": 186.91
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 97,
+    "ingresos": 18203.02,
+    "precio": 187.66
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Agosto",
+    "ventas": 112,
+    "ingresos": 21881.44,
+    "precio": 195.37
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 81,
+    "ingresos": 16454.34,
+    "precio": 203.14
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Octubre",
+    "ventas": 93,
+    "ingresos": 19855.5,
+    "precio": 213.5
+  },
+  {
+    "producto": "Tablet X",
+    "mes": "Junio",
+    "ventas": 62,
+    "ingresos": 19866.66,
+    "precio": 320.43
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Diciembre",
+    "ventas": 192,
+    "ingresos": 39521.28,
+    "precio": 205.84
+  },
+  {
+    "producto": "Smartphone A",
+    "mes": "Julio",
+    "ventas": 108,
+    "ingresos": 21063.24,
+    "precio": 195.03
+  },
+  {
+    "producto": "Smartphone B",
+    "mes": "Septiembre",
+    "ventas": 100,
+    "ingresos": 21503.0,
+    "precio": 215.03
+  }
+]
